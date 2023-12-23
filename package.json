@@ -1,0 +1,19 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "Belajar Typescript Design Patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "module": "ES6",
+  "author": "Rama Fajar",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.6",
+    "@types/jest": "^29.5.11",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "typescript": "^5.3.3"
+  }
+}
